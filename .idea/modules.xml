@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android应用源码音乐实时跳动频谱显示Demo/Android应用源码音乐实时跳动频谱显示Demo.iml" filepath="$PROJECT_DIR$/Android应用源码音乐实时跳动频谱显示Demo/Android应用源码音乐实时跳动频谱显示Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventBus/EventBus.iml" filepath="$PROJECT_DIR$/EventBus/EventBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventBus3.0_Sample/EventBus3.0_Sample.iml" filepath="$PROJECT_DIR$/EventBus3.0_Sample/EventBus3.0_Sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Music1.iml" filepath="$PROJECT_DIR$/Music1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcvideoplayer-lib/jcvideoplayer-lib.iml" filepath="$PROJECT_DIR$/jcvideoplayer-lib/jcvideoplayer-lib.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+#Fri Oct 12 13:12:31 CST 2018
+base.0=/home/szq/AndroidStudioProjects/Music1/EventBus3.0_Sample/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

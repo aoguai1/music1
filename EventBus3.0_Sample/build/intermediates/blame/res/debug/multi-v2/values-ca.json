@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/szq/AndroidStudioProjects/Music1/EventBus3.0_Sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
+            "map": [
+                {
+                    "source": "/home/szq/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/89a5415ff5536a205b6bde47be064afd/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
